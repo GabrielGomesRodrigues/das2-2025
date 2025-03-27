@@ -14,17 +14,14 @@ Cache memoria temporaria que resolveria problemas de banco de dados lotados e le
 Na maioria dos casos quando tiver uma demanda maior momentania de servidores é muito vantajoso alugar maquinas apenas para o momento, com alertas que avisam e ja ligam essas maquinas. Nesse caso melhora em varios pontos, mas a desvantem seria o valor que fica maior
 # das2-2025
 
-
-Aula 06/03/2025
+##Aula 06/03/2025
 IAC (Infrastructure as Code) – Automatizar os processos (exemplo: servidor caiu às 2 da manhã).
 Tratar os recursos como descartáveis (nunca ter servidores "sagrados" com nomes personalizados).
 Evitar acoplamento – anti-pattern.
 Para alta disponibilidade, é essencial ter redundância.
 O que importa não é a máquina, mas sim o serviço permanecer no ar.
 
-
-
-Aula 06/03
+##Aula 06/03
 Trade-Offs: Escolhas estratégicas que equilibram benefícios e custos, como desempenho vs. custo.
 
 Evitar Ponto Único de Falha: Implementação de redundância para garantir alta disponibilidade.
@@ -45,7 +42,7 @@ Local Zones: Extensões de regiões para baixa latência.
 
 Data Centers: Instalações físicas onde os servidores da AWS operam.
 
-Aula 10/03
+##Aula 10/03
 Infraestrutura Global da AWS: Estrutura distribuída para garantir escalabilidade e resiliência.
 
 POPs - Edge Locations: Pontos de presença para entrega rápida de conteúdo.
@@ -62,7 +59,7 @@ Princípio do Privilégio Mínimo: Conceder apenas as permissões essenciais.
 
 Criptografia: Proteção de dados por meio de técnicas de codificação.
 
-Aula 13/03
+##Aula 13/03
 Modelo de Responsabilidade Compartilhada: Cliente gerencia segurança dos dados, AWS da infraestrutura.
 
 Princípio do Privilégio Mínimo: Redução de riscos limitando acessos desnecessários.
@@ -77,7 +74,7 @@ Usuários: Contas individuais com permissões definidas.
 
 Acesso pela Console / Programático: Interface gráfica vs. acesso via API/CLI.
 
-Aula 17/03
+##Aula 17/03
 Policy de Identidade: Permissões associadas a usuários, grupos e funções.
 
 Policy de Recurso: Definição de acesso em nível de recurso.

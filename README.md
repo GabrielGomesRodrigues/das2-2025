@@ -123,3 +123,11 @@ On-Demand: Flexível, sem compromisso, mais caro.
 Reserved: Compromisso de 1/3 anos, mais barato.
 Savings Plans: Desconto com flexibilidade, baseado em gasto/hora.
 Spot: Muito barato, mas pode ser interrompido.
+
+## 10/04
+
+RDS: Serviço gerenciado da AWS para bancos de dados relacionais. Cuida de backups, patching, e alta disponibilidade.
+
+Bancos de dados relacionais: Organizam dados em tabelas com esquema fixo (ex: MySQL, PostgreSQL). Usam SQL e garantem consistência.
+
+Bancos de dados não relacionais: Mais flexíveis, sem esquema fixo (ex: DynamoDB, MongoDB). Ideais para dados semi-estruturados e escalabilidade horizontal.

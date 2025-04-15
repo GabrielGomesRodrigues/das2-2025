@@ -88,6 +88,7 @@ Policy de Recurso: Definição de acesso em nível de recurso.
 S3: Serviço de armazenamento escalável da AWS.
 
 ## Aula 24/03
+
 S3 - Gerenciamento de Ciclo de Vida: Regras para arquivamento e exclusão automática de objetos.
 
 S3 - Versionamento: Controle de versões para recuperação de arquivos modificados.
@@ -95,9 +96,11 @@ S3 - Versionamento: Controle de versões para recuperação de arquivos modifica
 S3 - CORS: Configuração de permissões para acesso a recursos de diferentes domínios.
 
 ## Aula 27/03
+
 Códigos S3
 
 ## Aula 31/03
+
 Códigos S3
 
 ## Aula 03/04
@@ -107,3 +110,16 @@ EC2 (Elastic Compute Cloud): Serviço da AWS que permite criar e gerenciar servi
 EBS (Elastic Block Store): Armazenamento em blocos usado por instâncias EC2. Funciona como um disco rígido persistente, podendo ser anexado, removido e redimensionado conforme necessário.
 
 AMI (Amazon Machine Image): Modelo usado para lançar instâncias EC2. Contém o sistema operacional, configurações, apps e dados necessários para inicializar o servidor.
+
+## 07/04
+
+Placement:
+Cluster: Alto desempenho, baixa latência, menos tolerante a falhas.
+Spread: Alta disponibilidade, instâncias bem distribuídas.
+Partition: Isolamento físico por grupos, ideal para cargas distribuídas.
+
+EC2 Purchase Model:
+On-Demand: Flexível, sem compromisso, mais caro.
+Reserved: Compromisso de 1/3 anos, mais barato.
+Savings Plans: Desconto com flexibilidade, baseado em gasto/hora.
+Spot: Muito barato, mas pode ser interrompido.

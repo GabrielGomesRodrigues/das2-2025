@@ -131,3 +131,15 @@ RDS: Serviço gerenciado da AWS para bancos de dados relacionais. Cuida de backu
 Bancos de dados relacionais: Organizam dados em tabelas com esquema fixo (ex: MySQL, PostgreSQL). Usam SQL e garantem consistência.
 
 Bancos de dados não relacionais: Mais flexíveis, sem esquema fixo (ex: DynamoDB, MongoDB). Ideais para dados semi-estruturados e escalabilidade horizontal.
+
+
+# Segundo Bimestre S2
+
+## Aula 05/05
+
+VPC (Virtual Private Cloud): é uma rede virtual isolada dentro da nuvem, onde você pode lançar recursos como instâncias EC2 com controle total de IPs, sub-redes, rotas e firewalls.
+
+CIDR (Classless Inter-Domain Routing): é a notação usada para definir intervalos de endereços IP (ex: 10.0.0.0/16), permitindo dividir a rede em sub-redes menores.
+
+Subnet Pública: é uma sub-rede dentro da VPC que tem acesso à internet por meio de um Internet Gateway; usada para recursos que precisam ser acessíveis externamente, como servidores web.
+

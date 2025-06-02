@@ -153,3 +153,31 @@ Guided lab: Creating a Virtual Private Cloud Challenge (Cafe)
 lab: Creating a VPC Networking 
 Environment for the Café
 Atividades Feitas
+
+## Aula 15/05
+Laboratórios Canvas: Atividades práticas realizadas na plataforma Canvas para reforçar o conteúdo teórico.
+
+Guided Lab: Creating a Virtual Private Cloud: Laboratório passo a passo onde você aprendeu a criar uma VPC do zero, com sub-redes públicas e privadas, tabelas de rotas e gateways, entendendo como isolar e proteger recursos dentro da AWS.(Feito)
+
+Challenge Lab: Creating a VPC Networking Environment for the Café: Um desafio mais livre onde você aplicou os conceitos de VPC para montar uma infraestrutura de rede para um cenário fictício (o Café), focando em boas práticas de segmentação e segurança.(Feito)
+
+## Aula 19/05
+VPC Peering: Técnica para conectar duas VPCs diferentes dentro da AWS, permitindo que elas troquem dados de forma segura, sem sair para a internet.
+
+AWS VPN Site-to-Site: Serviço que cria uma conexão segura (VPN) entre sua rede local (on-premises) e sua VPC na AWS, usando a internet como meio de transporte.
+
+AWS Direct Connect: Alternativa à VPN, oferece uma conexão física direta e privada entre seu datacenter e a AWS, com menor latência e maior confiabilidade.
+
+## Aula 26/05
+IAM Groups: Agrupam usuários com permissões semelhantes, facilitando a administração de políticas de acesso.
+
+Roles - AWS STS: Roles são permissões temporárias concedidas a usuários, serviços ou contas externas. O AWS STS (Security Token Service) permite emitir essas credenciais temporárias para acesso controlado.
+
+AWS Cognito: Serviço de gerenciamento de identidade para autenticar usuários em aplicações. Permite login via usuário/senha ou redes sociais, e integra com o IAM para controle de acesso.
+
+## Aula 29/05
+Criptografia Simétrica: Usa uma única chave secreta para codificar e decodificar os dados. É rápida, mas exige cuidado com o compartilhamento seguro da chave.
+
+Criptografia Assimétrica: Utiliza um par de chaves — pública e privada. A chave pública cifra a mensagem e apenas a chave privada pode decifrá-la, sendo muito usada para troca segura de dados e autenticação.
+
+

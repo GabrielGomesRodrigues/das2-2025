@@ -181,3 +181,36 @@ Criptografia Simétrica: Usa uma única chave secreta para codificar e decodific
 Criptografia Assimétrica: Utiliza um par de chaves — pública e privada. A chave pública cifra a mensagem e apenas a chave privada pode decifrá-la, sendo muito usada para troca segura de dados e autenticação.
 
 
+## Aula – 09/06
+Tópico: Criação de um ambiente altamente disponível na AWS.
+
+Atividades:
+
+Guided Lab: Creating a Highly Available Environment
+
+Criação de instâncias EC2 em múltiplas zonas de disponibilidade (AZs).
+
+Uso de Elastic Load Balancer (ELB) para distribuir o tráfego entre as instâncias.
+
+Configuração de um ambiente tolerante a falhas.
+
+Challenge Lab (Café): Creating a Scalable and Highly Available Environment for the Café
+
+Implementação de escalabilidade automática com Auto Scaling Group.
+
+Garantia de alta disponibilidade e desempenho para o ambiente do Café.
+
+Objetivo: Compreender e aplicar práticas de alta disponibilidade e balanceamento de carga.
+
+## Aula – 12/06
+Tópico: Reforço da criação de ambientes escaláveis e resilientes.
+
+Atividades:
+
+Guided Lab: Creating a Highly Available Environment
+
+Repetição e fixação dos conceitos de alta disponibilidade com múltiplas AZs e ELB.
+
+Challenge Lab (Café): Creating a Scalable and Highly Available Environment for the Café
+
+Otimização do ambiente do Café com foco em escalabilidade automática e distribuição de carga eficiente.

@@ -214,3 +214,17 @@ Repetição e fixação dos conceitos de alta disponibilidade com múltiplas AZs
 Challenge Lab (Café): Creating a Scalable and Highly Available Environment for the Café
 
 Otimização do ambiente do Café com foco em escalabilidade automática e distribuição de carga eficiente.
+
+## Aula 16/06 – Load Balancer e DNS
+
+Load Balancer: distribui o tráfego entre servidores, garantindo alta disponibilidade e escalabilidade.
+
+DNS: traduz nomes de domínio em IPs; na AWS, usa-se o Route 53, que pode ser integrado ao Load Balancer.
+
+## Aula 23/06 – Infraestrutura como Código (IaC)
+
+Permite criar e gerenciar infraestrutura por meio de código.
+
+Ferramentas: CloudFormation (AWS) e Terraform (multiplataforma).
+
+Benefícios: automação, padronização, menos erros e controle de versão.

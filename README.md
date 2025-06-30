@@ -228,3 +228,13 @@ Permite criar e gerenciar infraestrutura por meio de código.
 Ferramentas: CloudFormation (AWS) e Terraform (multiplataforma).
 
 Benefícios: automação, padronização, menos erros e controle de versão.
+
+## 26/06 – Reduzindo Acoplamento
+Menos dependência entre partes do sistema.
+
+Técnicas: separação de responsabilidades, interfaces, injeção de dependência, eventos e microserviços.
+
+## 30/06 e 03/07 – Recuperação ;-;
+Reforço de conteúdos e atividades.
+
+Prazo final para entrega dos repositórios: 03/07.
